@@ -1,4 +1,4 @@
-# 12-freecodecamp-prac-projects
+# Freecodecamp.org Projects
  
 ## Language used - Python
 
@@ -15,4 +15,4 @@
 11. Photo Manipulation in Python
 12. Markov Chain Text Composer
 
-### Decided to keep them as Scripts and not convert into executable files.
+### Projects vary from increasing difficulty.
